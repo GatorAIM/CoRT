@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+.vscode/
+data/
+outputs/
+checkpoints/
+logs/
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.joblib
+*.jsonl
+

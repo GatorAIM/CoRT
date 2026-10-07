@@ -1,0 +1,10 @@
+alpha: 0.10
+alpha_sensitivity:
+  - 0.05
+  - 0.10
+  - 0.15
+calibration: class_conditional_mondrian
+directional_states: [A, B, C, D]
+review_states: [E, F]
+empty_set_action: review_and_monitor
+

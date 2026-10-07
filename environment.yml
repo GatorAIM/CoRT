@@ -1,0 +1,15 @@
+name: cort
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.24
+  - pandas>=2.0
+  - scikit-learn>=1.3
+  - scipy>=1.10
+  - pytorch>=2.1
+  - xgboost>=2.0
+  - pyyaml>=6.0
+  - pytest>=7.4
+
